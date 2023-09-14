@@ -1,0 +1,3 @@
+.nav_item {
+  @apply cursor-pointer w-1/4 h-full flex justify-center items-center
+}

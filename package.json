@@ -1,0 +1,22 @@
+{
+  "name": "solidjs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@solidjs/router": "^0.8.3",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "solid-js": "^1.7.8",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5",
+    "vite-plugin-solid": "^2.7.0"
+  }
+}
